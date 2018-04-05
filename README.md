@@ -13,3 +13,7 @@
 ![Optional Text](../master/IMG/6.png)
 # Client gửi reqest string cho server , server trả về ip và name của máy chủ server
 ![Optional Text](../master/IMG/7.png)
+# Lúc Client gửi reqest sai dạng
+![Optional Text](../master/IMG/8.png)
+# Lúc Client gửi reqest bằng "" or null
+![Optional Text](../master/IMG/9.png)
