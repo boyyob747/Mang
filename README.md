@@ -1,3 +1,3 @@
 # Mang
-![Alt text](Mang/IMG/1.png?raw=true "Title")
+![Optional Text](../master/IMG/1.png)
 
